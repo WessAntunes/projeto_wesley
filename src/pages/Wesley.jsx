@@ -1,6 +1,6 @@
 function Wesley() {
     return(<p>
-        pagina do Wesley
+        pagina do Wesley 2
     </p>)
 }
 
